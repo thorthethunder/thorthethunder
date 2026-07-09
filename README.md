@@ -1,35 +1,47 @@
-# Hi, I'm Balakrishnan 👋
+# 👋 Hi, I'm Balakrishnan Lingan
 
-## Lead Software Engineer
+## Lead Software Engineer | Java Full Stack Developer
 
-💼 7 Years of Experience
+I am a Lead Software Engineer with 7+ years of experience building enterprise applications in the Banking and Financial Services domain.
 
 ### Tech Stack
 
 - Java 21
 - Spring Boot 3
+- Spring AI
 - Angular
-- Oracle
+- Oracle Database
 - Hibernate
+- Struts Framework
 - REST APIs
 - Microservices
+- JavaScript / TypeScript
+- HTML / CSS / jQuery
 
-### Banking Domain
+### AI & LLM
 
-- Enterprise Banking
+- Generative AI
+- OpenAI
+- Ollama
+- vLLM
+- AI Agents
+- Prompt Engineering
+
+### Domain
+
+- Banking
+- Financial Services
 - ACH
 - Payment Processing
 - Dispute Management
 
-### AI
+### Featured Project
 
-- Generative AI
-- AI Agents
-- LLM Applications
-- Cursor AI
+**Enterprise AI Banking Assistant**
 
-### Currently Learning
+An AI-powered banking assistant built with Angular, Java 21, Spring Boot 3, Spring AI, Oracle, and multi-LLM support for OpenAI, Ollama, and vLLM.
 
-- Spring AI
-- MCP
-- RAG
+### Connect
+
+- LinkedIn: https://www.linkedin.com/in/balakrishnan-lingan-7a270316a/
+- GitHub: https://github.com/thorthethunder
