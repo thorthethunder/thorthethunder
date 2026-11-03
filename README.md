@@ -1,129 +1,247 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ═════════════════════════════ HEADER ═════════════════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Balakrishnan%20Lingan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Lead%20Software%20Engineer%20%E2%80%A2%20Java%20%2B%20AI%20Systems&descAlignY=58&descSize=17&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:6D28D9&height=220&section=header&text=Balakrishnan%20Lingan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=LEAD%20SOFTWARE%20ENGINEER%20%7C%20AI%20ENGINEERING%20%7C%20JAVA&descSize=15&descAlignY=65&descColor=C4B5FD" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+AI-powered+banking+platforms;Spring+Boot+%2B+Spring+AI+%2B+Angular;Multi-agent+systems+with+local+LLMs;7%2B+years+in+FinTech+%F0%9F%8F%A6" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/balakrishnan-lingan-7a270316a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:balakrish23579@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/thorthethunder">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=thorthethunder&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/balakrishnan-lingan-7a270316a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:balakrish23579@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thorthethunder&style=for-the-badge&color=7c3aed&label=Profile+Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Engineering+Scalable+Enterprise+Applications;Java+%7C+Spring+Boot+%7C+Angular+%7C+Microservices;Exploring+AI+Agents+%26+MCP+Architecture;Building+Intelligent+Software+Products" />
 </p>
 
 ---
 
-### ⚡ About Me
+## 👨‍💻 About Me
+
+I'm a **Lead Software Engineer** with 7+ years of experience building enterprise applications, backend systems, and full-stack solutions, primarily in the banking and financial technology domain.
+
+My engineering interests span from scalable Java microservices to AI-powered applications and autonomous agent architectures.
 
 ```java
-public class Thor {
-    String name     = "Balakrishnan Lingan";
-    String role     = "Lead Software Engineer @ Quinte Financial Technologies";
-    String location = "Chennai, India 🇮🇳";
-    int    yearsExp = 7;
+public class Engineer {
 
-    String[] domain = { "Banking", "ACH", "Payment Processing", "Dispute Management" };
-    String   focus  = "Bringing GenAI & multi-agent systems into enterprise FinTech";
+    String name = "Balakrishnan Lingan";
+    String role = "Lead Software Engineer";
+    String location = "Chennai, India";
+
+    String[] expertise = {
+        "Java & Spring Boot",
+        "Microservices Architecture",
+        "Enterprise Application Development",
+        "Angular & Full-Stack Engineering",
+        "AI Engineering & Agentic Systems"
+    };
+
+    String currentFocus =
+        "Building intelligent, scalable software systems";
 }
 ```
 
-- 🏦 7+ years building enterprise applications for **Banking & Financial Services**
-- 🤖 Designing **multi-agent AI architectures** with Spring AI and local LLMs (Ollama, vLLM)
-- 🧩 Full-stack: Java 21 / Spring Boot 3 on the back, Angular on the front, Oracle underneath
+- 🏦 Building enterprise solutions in Banking & FinTech.
+- ⚙️ Designing scalable backend systems and REST APIs.
+- 🤖 Exploring LLMs, AI agents, RAG and MCP.
+- 🧠 Developing independent software products and automation platforms.
+- 🚀 Interested in combining traditional software engineering with intelligent systems.
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Technology Stack
 
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Struts-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge&logo=docker&logoColor=white" />
+### Backend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square)
+
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
 </p>
 
-<p align="center"><b>Data</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" />
 </p>
 
-<p align="center"><b>AI & LLM</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_%26_MCP-0EA5E9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logoColor=white" />
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square)
+
+### AI & Intelligent Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,openai" />
 </p>
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0EA5E9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-9333EA?style=flat-square)
+
+### DevOps & Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode,eclipse" />
+</p>
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏦 Enterprise AI Banking Assistant</h4>
-      <p>AI-powered banking assistant with multi-LLM support — swap between OpenAI, Ollama and vLLM without touching business logic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Java_21-ED8B00?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Spring_AI-6DB33F?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔌 <a href="https://github.com/thorthethunder/rag-to-mcp">RAG → MCP</a></h4>
-      <p>Exploring the path from Retrieval-Augmented Generation to the Model Context Protocol — built during the Nasscom AI-Code Sarathi workshop.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-RAG-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/-MCP-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/-LLMs-10B981?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 PublishOS
+
+**AI Content Intelligence & Publishing Platform**
+
+A provider-neutral content publishing platform designed to manage content adaptation, scheduling, and multi-platform publishing.
+
+- Multi-tenant architecture
+- OAuth 2.0 & PKCE
+- Durable job processing
+- Provider-neutral connectors
+- Content intelligence
+
+**Stack**
+
+`Java 21` `Spring Boot` `Angular` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Enterprise AI Banking Assistant
+
+**Intelligent Banking Automation**
+
+An AI-powered banking assistant integrating enterprise banking workflows and customer service capabilities.
+
+- Customer and account information
+- Transaction retrieval
+- Dispute management
+- Fraud and complaint workflows
+- Secure authentication
+- PDF and document workflows
+
+**Stack**
+
+`Java` `Spring Boot` `Angular` `Oracle` `LLM Integration`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 DocFlow
+
+**Document Processing Platform**
+
+A local-first document processing platform focused on PDF and Word workflows.
+
+- PDF generation and processing
+- PDF-to-Word conversion
+- Document management
+- Digital signature workflows
+- AI-assisted document processing
+
+**Stack**
+
+`Java 21` `Spring Boot` `Angular` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 RAG → MCP
+
+**Exploring Intelligent AI Integrations**
+
+Exploring how Retrieval-Augmented Generation connects with the Model Context Protocol to build intelligent and tool-enabled AI applications.
+
+Developed during the Nasscom AI-Code Sarathi workshop.
+
+**Stack**
+
+`RAG` `MCP` `LLMs` `AI Engineering`
+
+[↗ Explore Repository](https://github.com/thorthethunder/rag-to-mcp)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 🧪 Currently Exploring
+
+| Area | Focus |
+|---|---|
+| AI Engineering | LLM integration and AI application architecture |
+| Agentic Systems | Multi-agent orchestration and autonomous workflows |
+| MCP | Secure tool integration and context management |
+| Software Engineering Agents | Autonomous coding, testing and deployment workflows |
+| Distributed Systems | Resilience, scalability and asynchronous processing |
+| Local AI | Running and integrating local AI models |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thorthethunder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorthethunder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=thorthethunder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorthethunder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thorthethunder&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=thorthethunder&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thorthethunder&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thorthethunder&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
+## 🤝 Let's Connect
+
 <p align="center">
-  <i>“Make it work, make it right, make it smart.”</i> ⚡
+  <b>Interested in Software Architecture, Java Engineering, AI Systems and Building Products.</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/balakrishnan-lingan-7a270316a/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Engineering beyond code. Building systems that scale. Exploring intelligence through software.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:0B1020&height=110&section=footer" width="100%" />
+</p>
