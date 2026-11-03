@@ -21,7 +21,7 @@
 <img src="./assets/title-stack.svg" width="100%" alt="Tech stack" />
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Java, Spring Boot, Hibernate, Struts, REST, Microservices, Angular, TypeScript, JavaScript, HTML5, CSS3, jQuery, Oracle, PostgreSQL, Docker, Spring AI, Ollama, OpenAI, vLLM, RAG/MCP" />
+  <img src="./assets/tech-stack.svg?v=2" width="100%" alt="Tech stack: Java, Spring Boot, Hibernate, Struts, REST, Microservices, Angular, TypeScript, JavaScript, HTML5, CSS3, jQuery, Oracle, PostgreSQL, Docker, Spring AI, Ollama, OpenAI, vLLM, RAG/MCP" />
 </p>
 
 <br />
