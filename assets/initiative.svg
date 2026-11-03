@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Autonomous AI Software Engineering Platform">
+<style>
+  .t{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .in{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .flow{stroke-dasharray:6 8;animation:dash 1.2s linear infinite}
+  @keyframes dash{to{stroke-dashoffset:-14}}
+  .pkt{animation:travel 7s cubic-bezier(.6,0,.4,1) infinite}
+  @keyframes travel{0%{transform:translateX(0);opacity:0}5%{opacity:1}95%{opacity:1}100%{transform:translateX(972px);opacity:0}}
+  .node{animation:in .7s cubic-bezier(.2,.8,.2,1) both}
+  .hot{animation:hot 7s linear infinite}
+  @keyframes hot{0%,100%{opacity:.15}50%{opacity:.5}}
+</style>
+<defs>
+  <linearGradient id="inbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#14112e"/></linearGradient>
+  <linearGradient id="inac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <linearGradient id="inedge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6" stop-opacity=".7"/><stop offset=".4" stop-color="#ffffff" stop-opacity=".08"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".35"/></linearGradient>
+  <filter id="inblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+</defs>
+<clipPath id="inclip"><rect width="1200" height="560" rx="24"/></clipPath>
+<g clip-path="url(#inclip)">
+  <rect width="1200" height="560" fill="url(#inbg)"/>
+  <circle cx="180.0" cy="0.0" r="160" fill="#f472b6" opacity=".28" filter="url(#inblur)"/>
+  <circle cx="1020.0" cy="560.0" r="140" fill="#a78bfa" opacity=".16" filter="url(#inblur)"/>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="558.5" rx="23.5" fill="none" stroke="url(#inedge)" stroke-width="1.5"/>
+<defs><linearGradient id="inline" x1="0" x2="1"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient></defs>
+<g class="in">
+<rect x="40" y="38" width="128" height="28" rx="14" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".4"/>
+<circle class="pulse" cx="58" cy="52" r="4.5" fill="#f472b6"/>
+<text class="m" x="70" y="56.5" fill="#f472b6" font-size="12" font-weight="700" letter-spacing="1.5">IN DESIGN</text>
+<text class="t" x="40" y="112" fill="#f8fafc" font-size="32" font-weight="800" letter-spacing="-.8">Autonomous AI Software Engineering Platform</text>
+<text class="t" x="40" y="144" fill="#94a3b8" font-size="17">A multi-agent system of specialised AI engineers that takes work from requirement to deployment.</text>
+</g>
+<line x1="114.0" y1="310" x2="1086.0" y2="310" stroke="url(#inline)" stroke-opacity=".6" stroke-width="2" class="flow"/>
+<line x1="114.0" y1="280" x2="114.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="114.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<line x1="276.0" y1="280" x2="276.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="276.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<line x1="438.0" y1="280" x2="438.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="438.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<line x1="600.0" y1="280" x2="600.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="600.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<line x1="762.0" y1="280" x2="762.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="762.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<line x1="924.0" y1="280" x2="924.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="924.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<line x1="1086.0" y1="280" x2="1086.0" y2="304" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/><circle cx="1086.0" cy="310" r="5" fill="#0b1020" stroke="#f472b6" stroke-width="2"/>
+<g class="pkt"><circle cx="114.0" cy="310" r="7" fill="#7dd3fc"/><circle cx="114.0" cy="310" r="14" fill="#7dd3fc" opacity=".25"/></g>
+<g class="node" style="animation-delay:0.00s">
+<rect x="44.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="44.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:0s"/>
+<rect x="44.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="60.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 01</text>
+<text class="t" x="60.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Requirements</text>
+<text class="t" x="60.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">analysis</text></g>
+<g class="node" style="animation-delay:0.08s">
+<rect x="206.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="206.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:1s"/>
+<rect x="206.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="222.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 02</text>
+<text class="t" x="222.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Architecture</text>
+<text class="t" x="222.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">design</text></g>
+<g class="node" style="animation-delay:0.16s">
+<rect x="368.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="368.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:2s"/>
+<rect x="368.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="384.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 03</text>
+<text class="t" x="384.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Coding</text>
+<text class="t" x="384.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">agents</text></g>
+<g class="node" style="animation-delay:0.24s">
+<rect x="530.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="530.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:3s"/>
+<rect x="530.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="546.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 04</text>
+<text class="t" x="546.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Code review</text>
+<text class="t" x="546.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">automated</text></g>
+<g class="node" style="animation-delay:0.32s">
+<rect x="692.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="692.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:4s"/>
+<rect x="692.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="708.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 05</text>
+<text class="t" x="708.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Testing</text>
+<text class="t" x="708.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">gen + run</text></g>
+<g class="node" style="animation-delay:0.40s">
+<rect x="854.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="854.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:5s"/>
+<rect x="854.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="870.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 06</text>
+<text class="t" x="870.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Merge</text>
+<text class="t" x="870.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">controlled</text></g>
+<g class="node" style="animation-delay:0.48s">
+<rect x="1016.0" y="188" width="140" height="92" rx="18" fill="#0b1020"/>
+<rect x="1016.0" y="188" width="140" height="92" rx="18" fill="url(#inac)" class="hot" style="animation-delay:6s"/>
+<rect x="1016.5" y="188.5" width="139" height="91" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".14"/>
+<text class="m" x="1032.0" y="214" fill="#ffffff" fill-opacity=".55" font-size="11" font-weight="700" letter-spacing="1">AGENT 07</text>
+<text class="t" x="1032.0" y="244" fill="#ffffff" font-size="16" font-weight="800">Deploy</text>
+<text class="t" x="1032.0" y="264" fill="#ffffff" fill-opacity=".6" font-size="12.5">automated</text></g>
+<rect x="40" y="350" width="1120" height="1" fill="#ffffff" fill-opacity=".08"/>
+<text class="m" x="40" y="386" fill="#64748b" font-size="11.5" font-weight="700" letter-spacing="2">VISION</text>
+<rect x="40.0" y="398" width="274.8" height="28" rx="14.0" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/><text class="t" x="177.4" y="416.7" fill="#e2e8f0" font-size="13" font-weight="600" text-anchor="middle">Specialized AI engineering agents</text><rect x="322.8" y="398" width="229.6" height="28" rx="14.0" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/><text class="t" x="437.6" y="416.7" fill="#e2e8f0" font-size="13" font-weight="600" text-anchor="middle">Requirements → architecture</text><rect x="560.4" y="398" width="259.7" height="28" rx="14.0" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/><text class="t" x="690.3" y="416.7" fill="#e2e8f0" font-size="13" font-weight="600" text-anchor="middle">Automated coding &amp; code reviews</text><rect x="828.1" y="398" width="229.6" height="28" rx="14.0" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/><text class="t" x="942.9" y="416.7" fill="#e2e8f0" font-size="13" font-weight="600" text-anchor="middle">Test generation &amp; execution</text><rect x="40.0" y="434" width="199.4" height="28" rx="14.0" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/><text class="t" x="139.7" y="452.7" fill="#e2e8f0" font-size="13" font-weight="600" text-anchor="middle">Controlled code merging</text><rect x="247.4" y="434" width="184.3" height="28" rx="14.0" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/><text class="t" x="339.6" y="452.7" fill="#e2e8f0" font-size="13" font-weight="600" text-anchor="middle">Deployment automation</text>
+<text class="m" x="40" y="496" fill="#64748b" font-size="11.5" font-weight="700" letter-spacing="2">TECHNOLOGY DIRECTION</text>
+<rect x="40.0" y="508" width="76.8" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".35"/><text class="t" x="78.4" y="525.5" fill="#fbcfe8" font-size="12.5" font-weight="600" text-anchor="middle">Java 21</text><rect x="123.8" y="508" width="105.8" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".35"/><text class="t" x="176.6" y="525.5" fill="#fbcfe8" font-size="12.5" font-weight="600" text-anchor="middle">Spring Boot</text><rect x="236.5" y="508" width="98.5" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".35"/><text class="t" x="285.8" y="525.5" fill="#fbcfe8" font-size="12.5" font-weight="600" text-anchor="middle">PostgreSQL</text><rect x="342.0" y="508" width="69.5" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".35"/><text class="t" x="376.8" y="525.5" fill="#fbcfe8" font-size="12.5" font-weight="600" text-anchor="middle">Docker</text><rect x="418.5" y="508" width="91.2" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".35"/><text class="t" x="464.1" y="525.5" fill="#fbcfe8" font-size="12.5" font-weight="600" text-anchor="middle">AI Agents</text><rect x="516.8" y="508" width="55.0" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".35"/><text class="t" x="544.2" y="525.5" fill="#fbcfe8" font-size="12.5" font-weight="600" text-anchor="middle">LLMs</text>
+</svg>

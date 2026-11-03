@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="500" viewBox="0 0 590 500" role="img" aria-label="QuoteFlow — AI-Powered Quote-to-Payment SaaS">
+<style>
+  .t{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .in{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .f{animation:in .6s cubic-bezier(.2,.8,.2,1) both}
+</style>
+<defs>
+  <linearGradient id="p0bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#14112e"/></linearGradient>
+  <linearGradient id="p0ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10b981"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient>
+  <linearGradient id="p0edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10b981" stop-opacity=".7"/><stop offset=".4" stop-color="#ffffff" stop-opacity=".08"/><stop offset="1" stop-color="#0ea5e9" stop-opacity=".35"/></linearGradient>
+  <filter id="p0blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+</defs>
+<clipPath id="p0clip"><rect width="590" height="500" rx="24"/></clipPath>
+<g clip-path="url(#p0clip)">
+  <rect width="590" height="500" fill="url(#p0bg)"/>
+  <circle cx="501.5" cy="0.0" r="160" fill="#10b981" opacity=".28" filter="url(#p0blur)"/>
+  <circle cx="88.50000000000001" cy="500.0" r="140" fill="#0ea5e9" opacity=".16" filter="url(#p0blur)"/>
+</g>
+<rect x=".75" y=".75" width="588.5" height="498.5" rx="23.5" fill="none" stroke="url(#p0edge)" stroke-width="1.5"/>
+<g class="in">
+<rect x="32" y="32" width="60" height="60" rx="16" fill="url(#p0ac)"/>
+<rect x="32" y="32" width="60" height="30" rx="16" fill="#ffffff" fill-opacity=".14"/>
+<text class="t" x="62" y="70" fill="#ffffff" font-size="22" font-weight="800" text-anchor="middle" letter-spacing="-.5">QF</text>
+<text class="t" x="108" y="58" fill="#f8fafc" font-size="26" font-weight="800" letter-spacing="-.5">QuoteFlow</text>
+<text class="m" x="108" y="84" fill="#10b981" font-size="12" font-weight="700" letter-spacing="1">AI-POWERED QUOTE-TO-PAYMENT SAAS</text>
+</g>
+<text class="t in" x="32" y="128" fill="#a3b0c4" font-size="15.5">A multi-tenant quotation platform that streamlines the complete</text>
+<text class="t in" x="32" y="152" fill="#a3b0c4" font-size="15.5">business quotation lifecycle.</text>
+<text class="m" x="32" y="190" fill="#64748b" font-size="11.5" font-weight="700" letter-spacing="2">KEY FEATURES</text>
+<g class="f" style="animation-delay:0.10s">
+<rect x="32.0" y="208" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="221" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M42.5 221.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="225.5" fill="#dbe2ee" font-size="13.5">AI-powered quotation workflows</text></g>
+<g class="f" style="animation-delay:0.16s">
+<rect x="295.0" y="208" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="309.0" cy="221" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M305.5 221.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="323.0" y="225.5" fill="#dbe2ee" font-size="13.5">Quotation &amp; PDF generation</text></g>
+<g class="f" style="animation-delay:0.22s">
+<rect x="32.0" y="242" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="255" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M42.5 255.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="259.5" fill="#dbe2ee" font-size="13.5">Quote-to-invoice conversion</text></g>
+<g class="f" style="animation-delay:0.28s">
+<rect x="295.0" y="242" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="309.0" cy="255" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M305.5 255.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="323.0" y="259.5" fill="#dbe2ee" font-size="13.5">Razorpay payment integration</text></g>
+<g class="f" style="animation-delay:0.34s">
+<rect x="32.0" y="276" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="289" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M42.5 289.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="293.5" fill="#dbe2ee" font-size="13.5">Payment receipts &amp; reporting</text></g>
+<g class="f" style="animation-delay:0.40s">
+<rect x="295.0" y="276" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="309.0" cy="289" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M305.5 289.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="323.0" y="293.5" fill="#dbe2ee" font-size="13.5">Multi-tenant architecture</text></g>
+<g class="f" style="animation-delay:0.46s">
+<rect x="32.0" y="310" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="323" r="7" fill="#10b981" fill-opacity=".18"/>
+<path d="M42.5 323.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#10b981" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="327.5" fill="#dbe2ee" font-size="13.5">Secure authentication</text></g>
+<rect x="32" y="358" width="526" height="1" fill="#ffffff" fill-opacity=".08"/>
+<rect x="32.0" y="376" width="76.8" height="26" rx="13.0" fill="#10b981" fill-opacity=".1" stroke="#10b981" stroke-opacity=".35"/><text class="t" x="70.4" y="393.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Java 21</text><rect x="115.8" y="376" width="105.8" height="26" rx="13.0" fill="#10b981" fill-opacity=".1" stroke="#10b981" stroke-opacity=".35"/><text class="t" x="168.6" y="393.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Spring Boot</text><rect x="228.5" y="376" width="76.8" height="26" rx="13.0" fill="#10b981" fill-opacity=".1" stroke="#10b981" stroke-opacity=".35"/><text class="t" x="266.9" y="393.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Angular</text><rect x="312.2" y="376" width="98.5" height="26" rx="13.0" fill="#10b981" fill-opacity=".1" stroke="#10b981" stroke-opacity=".35"/><text class="t" x="361.5" y="393.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">PostgreSQL</text><rect x="417.8" y="376" width="91.2" height="26" rx="13.0" fill="#10b981" fill-opacity=".1" stroke="#10b981" stroke-opacity=".35"/><text class="t" x="463.4" y="393.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Spring AI</text><rect x="32.0" y="409" width="84.0" height="26" rx="13.0" fill="#10b981" fill-opacity=".1" stroke="#10b981" stroke-opacity=".35"/><text class="t" x="74.0" y="426.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Razorpay</text>
+<g>
+<circle class="pulse" cx="40" cy="462" r="4.5" fill="#22c55e"/>
+<text class="m" x="52" y="466.5" fill="#22c55e" font-size="12" font-weight="700" letter-spacing="1.5">LIVE ON GITHUB</text>
+<rect x="386.4" y="448" width="171.60000000000002" height="30" rx="15" fill="url(#p0ac)"/>
+<text class="t" x="472.2" y="468" fill="#ffffff" font-size="13.5" font-weight="700" text-anchor="middle">View on GitHub  →</text>
+</g></svg>

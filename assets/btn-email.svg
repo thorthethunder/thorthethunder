@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-label="Email me">
+<style>.t{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Helvetica,Arial,sans-serif}</style>
+<defs><linearGradient id="bbtn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs>
+<rect x="1" y="1" width="218" height="54" rx="27.0" fill="#0b1020"/>
+<rect x="1" y="1" width="218" height="54" rx="27.0" fill="none" stroke="url(#bbtn)" stroke-width="2"/>
+<circle cx="30" cy="28" r="18" fill="url(#bbtn)"/>
+<g transform="translate(20 18) scale(.8333)"><path fill="#ffffff" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></g>
+<text class="t" x="60" y="34" fill="#e2e8f0" font-size="16" font-weight="700">Email me</text>
+<text class="t" x="196" y="34" fill="#64748b" font-size="16" font-weight="700" text-anchor="end">↗</text>
+</svg>

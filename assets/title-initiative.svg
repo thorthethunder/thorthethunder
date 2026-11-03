@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Current engineering initiative">
+<style>
+  .t{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .in{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .line{animation:grow 1.2s cubic-bezier(.2,.8,.2,1) both;transform-origin:left}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+</style>
+<defs><linearGradient id="s04g" x1="0" x2="1"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="s04l" x1="0" x2="1"><stop offset="0" stop-color="#f472b6" stop-opacity=".9"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+<g class="in">
+  <text class="m" x="4" y="30" fill="#f472b6" font-size="13" font-weight="700" letter-spacing="3">04 ── WHAT I&#x27;M BUILDING NOW</text>
+  <text class="t" x="2" y="72" fill="url(#s04g)" font-size="34" font-weight="800" letter-spacing="-.8">Current engineering initiative</text>
+</g>
+<rect class="line" x="4" y="90" width="1192" height="2" rx="1" fill="url(#s04l)"/>
+</svg>

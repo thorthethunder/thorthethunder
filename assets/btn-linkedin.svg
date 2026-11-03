@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-label="LinkedIn">
+<style>.t{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Helvetica,Arial,sans-serif}</style>
+<defs><linearGradient id="bbtn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a66c2"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<rect x="1" y="1" width="218" height="54" rx="27.0" fill="#0b1020"/>
+<rect x="1" y="1" width="218" height="54" rx="27.0" fill="none" stroke="url(#bbtn)" stroke-width="2"/>
+<circle cx="30" cy="28" r="18" fill="url(#bbtn)"/>
+<g transform="translate(20 18) scale(.8333)"><rect width="24" height="24" rx="4" fill="none"/><text x="12" y="18" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="800" text-anchor="middle">in</text></g>
+<text class="t" x="60" y="34" fill="#e2e8f0" font-size="16" font-weight="700">LinkedIn</text>
+<text class="t" x="196" y="34" fill="#64748b" font-size="16" font-weight="700" text-anchor="end">↗</text>
+</svg>

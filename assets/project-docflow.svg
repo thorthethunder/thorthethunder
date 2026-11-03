@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="500" viewBox="0 0 590 500" role="img" aria-label="DocFlow — Document Intelligence &amp; Processing">
+<style>
+  .t{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .in{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .f{animation:in .6s cubic-bezier(.2,.8,.2,1) both}
+</style>
+<defs>
+  <linearGradient id="p3bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#14112e"/></linearGradient>
+  <linearGradient id="p3ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  <linearGradient id="p3edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity=".7"/><stop offset=".4" stop-color="#ffffff" stop-opacity=".08"/><stop offset="1" stop-color="#6366f1" stop-opacity=".35"/></linearGradient>
+  <filter id="p3blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+</defs>
+<clipPath id="p3clip"><rect width="590" height="500" rx="24"/></clipPath>
+<g clip-path="url(#p3clip)">
+  <rect width="590" height="500" fill="url(#p3bg)"/>
+  <circle cx="501.5" cy="0.0" r="160" fill="#38bdf8" opacity=".28" filter="url(#p3blur)"/>
+  <circle cx="88.50000000000001" cy="500.0" r="140" fill="#6366f1" opacity=".16" filter="url(#p3blur)"/>
+</g>
+<rect x=".75" y=".75" width="588.5" height="498.5" rx="23.5" fill="none" stroke="url(#p3edge)" stroke-width="1.5"/>
+<g class="in">
+<rect x="32" y="32" width="60" height="60" rx="16" fill="url(#p3ac)"/>
+<rect x="32" y="32" width="60" height="30" rx="16" fill="#ffffff" fill-opacity=".14"/>
+<text class="t" x="62" y="70" fill="#ffffff" font-size="22" font-weight="800" text-anchor="middle" letter-spacing="-.5">DF</text>
+<text class="t" x="108" y="58" fill="#f8fafc" font-size="26" font-weight="800" letter-spacing="-.5">DocFlow</text>
+<text class="m" x="108" y="84" fill="#38bdf8" font-size="12" font-weight="700" letter-spacing="1">DOCUMENT INTELLIGENCE &amp; PROCESSING</text>
+</g>
+<text class="t in" x="32" y="128" fill="#a3b0c4" font-size="15.5">A document-processing product focused on simplifying PDF and</text>
+<text class="t in" x="32" y="152" fill="#a3b0c4" font-size="15.5">Word document workflows.</text>
+<text class="m" x="32" y="190" fill="#64748b" font-size="11.5" font-weight="700" letter-spacing="2">PRODUCT SCOPE</text>
+<g class="f" style="animation-delay:0.10s">
+<rect x="32.0" y="208" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="221" r="7" fill="#38bdf8" fill-opacity=".18"/>
+<path d="M42.5 221.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="225.5" fill="#dbe2ee" font-size="13.5">PDF generation &amp; processing</text></g>
+<g class="f" style="animation-delay:0.16s">
+<rect x="295.0" y="208" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="309.0" cy="221" r="7" fill="#38bdf8" fill-opacity=".18"/>
+<path d="M305.5 221.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="323.0" y="225.5" fill="#dbe2ee" font-size="13.5">PDF-to-Word conversion</text></g>
+<g class="f" style="animation-delay:0.22s">
+<rect x="32.0" y="242" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="255" r="7" fill="#38bdf8" fill-opacity=".18"/>
+<path d="M42.5 255.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="259.5" fill="#dbe2ee" font-size="13.5">Document management</text></g>
+<g class="f" style="animation-delay:0.28s">
+<rect x="295.0" y="242" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="309.0" cy="255" r="7" fill="#38bdf8" fill-opacity=".18"/>
+<path d="M305.5 255.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="323.0" y="259.5" fill="#dbe2ee" font-size="13.5">Digital signature workflows</text></g>
+<g class="f" style="animation-delay:0.34s">
+<rect x="32.0" y="276" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="46.0" cy="289" r="7" fill="#38bdf8" fill-opacity=".18"/>
+<path d="M42.5 289.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60.0" y="293.5" fill="#dbe2ee" font-size="13.5">AI-assisted processing</text></g>
+<g class="f" style="animation-delay:0.40s">
+<rect x="295.0" y="276" width="253.0" height="26" rx="8" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="309.0" cy="289" r="7" fill="#38bdf8" fill-opacity=".18"/>
+<path d="M305.5 289.2 l2.4 2.4 l4.3 -4.6" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="323.0" y="293.5" fill="#dbe2ee" font-size="13.5">Local-first architecture</text></g>
+<rect x="32" y="324" width="526" height="1" fill="#ffffff" fill-opacity=".08"/>
+<rect x="32.0" y="342" width="76.8" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".35"/><text class="t" x="70.4" y="359.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Java 21</text><rect x="115.8" y="342" width="105.8" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".35"/><text class="t" x="168.6" y="359.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Spring Boot</text><rect x="228.5" y="342" width="76.8" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".35"/><text class="t" x="266.9" y="359.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">Angular</text><rect x="312.2" y="342" width="98.5" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".35"/><text class="t" x="361.5" y="359.5" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">PostgreSQL</text>
+<g>
+<circle class="pulse" cx="40" cy="462" r="4.5" fill="#f59e0b"/>
+<text class="m" x="52" y="466.5" fill="#f59e0b" font-size="12" font-weight="700" letter-spacing="1.5">IN DEVELOPMENT</text>
+</g></svg>
