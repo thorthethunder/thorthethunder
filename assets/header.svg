@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Balakrishnan Lingan — Lead Software Engineer">
+<style>
+  .t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .orb1{animation:drift1 14s ease-in-out infinite}
+  .orb2{animation:drift2 18s ease-in-out infinite}
+  .fade{animation:fadeUp 1s cubic-bezier(.2,.8,.2,1) both}
+  .d1{animation-delay:.15s}.d2{animation-delay:.3s}.d3{animation-delay:.45s}
+  .line{opacity:0;animation:cycle 12s infinite}
+  .l1{opacity:1}
+  .l2{animation-delay:3s}.l3{animation-delay:6s}.l4{animation-delay:9s}
+  .cursor{animation:blink 1s steps(1) infinite}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  .code{animation:float 6s ease-in-out infinite}
+  @keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,30px)}}
+  @keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(-70px,-20px)}}
+  @keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  @keyframes cycle{0%{opacity:0;transform:translateY(8px)}4%,22%{opacity:1;transform:none}26%,100%{opacity:0;transform:translateY(-8px)}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b1a"/><stop offset=".55" stop-color="#111538"/><stop offset="1" stop-color="#1e1047"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#c4b5fd"/><stop offset="1" stop-color="#7dd3fc"/>
+  </linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/>
+  </pattern>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="clip"><rect width="1200" height="320" rx="24"/></clipPath>
+</defs>
+
+<g clip-path="url(#clip)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle class="orb1" cx="260" cy="60" r="150" fill="#7c3aed" opacity=".45" filter="url(#blur)"/>
+  <circle class="orb2" cx="980" cy="280" r="170" fill="#0ea5e9" opacity=".35" filter="url(#blur)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="319" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+
+<!-- left: identity -->
+<g class="fade">
+  <rect x="64" y="58" width="300" height="30" rx="15" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+  <circle class="pulse" cx="84" cy="73" r="5" fill="#22c55e"/>
+  <text class="t" x="98" y="78" fill="#cbd5e1" font-size="13" font-weight="600" letter-spacing="1.2">LEAD SOFTWARE ENGINEER · FINTECH</text>
+</g>
+<text class="t fade d1" x="62" y="150" fill="url(#name)" font-size="58" font-weight="800" letter-spacing="-1.5">Balakrishnan Lingan</text>
+<text class="t fade d2" x="64" y="188" fill="#94a3b8" font-size="18">Java · Spring AI · Angular — building AI systems for banking</text>
+
+<g class="fade d3">
+  <text class="m" x="64" y="246" fill="#7c3aed" font-size="18" font-weight="700">&gt;</text>
+  <g class="m" font-size="18" fill="#e2e8f0">
+    <text class="line l1" x="86" y="246">Building AI-powered banking platforms</text>
+    <text class="line l2" x="86" y="246">Multi-agent systems with Spring AI</text>
+    <text class="line l3" x="86" y="246">Local LLMs with Ollama &amp; vLLM</text>
+    <text class="line l4" x="86" y="246">7+ years shipping FinTech software</text>
+  </g>
+  <rect class="cursor" x="64" y="262" width="12" height="3" fill="#7dd3fc"/>
+</g>
+
+<!-- right: floating code card -->
+<g class="code">
+  <rect x="790" y="62" width="350" height="196" rx="16" fill="#0b1020" fill-opacity=".85" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="814" cy="84" r="5" fill="#ef4444"/><circle cx="832" cy="84" r="5" fill="#f59e0b"/><circle cx="850" cy="84" r="5" fill="#22c55e"/>
+  <text class="m" x="1120" y="88" fill="#475569" font-size="12" text-anchor="end">Thor.java</text>
+  <g class="m" font-size="14" xml:space="preserve">
+    <text x="814" y="122"><tspan fill="#c084fc">@Agent</tspan></text>
+    <text x="814" y="146"><tspan fill="#c084fc">public class </tspan><tspan fill="#7dd3fc">Thor</tspan><tspan fill="#e2e8f0"> {</tspan></text>
+    <text x="834" y="170"><tspan fill="#fbbf24">stack</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"Spring AI"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="834" y="194"><tspan fill="#fbbf24">domain</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"Banking"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="834" y="218"><tspan fill="#fbbf24">llm</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"Ollama"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="814" y="242" fill="#e2e8f0">}</text>
+  </g>
+</g>
+</svg>
