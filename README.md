@@ -39,34 +39,169 @@ Outside work, my personal projects explore **GenAI**: multi-agent systems with *
 <br />
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Java, Spring Boot, Hibernate, Struts, REST, Microservices, Angular, TypeScript, JavaScript, HTML5, CSS3, jQuery, Oracle, Spring AI, Ollama, OpenAI, vLLM, RAG/MCP" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Java, Spring Boot, Hibernate, Struts, REST, Microservices, Angular, TypeScript, JavaScript, HTML5, CSS3, jQuery, Oracle, PostgreSQL, Docker, Spring AI, Ollama, OpenAI, vLLM, RAG/MCP" />
 </p>
 
 <br />
 
-## 🚀 Personal projects
+## 🚀 Products & Engineering Portfolio
+
+I build software products that solve real-world business problems, combining enterprise engineering, AI capabilities, automation and scalable architecture.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Enterprise AI Banking Assistant
-AI-powered banking assistant with **multi-LLM support**. It switches between OpenAI, Ollama and vLLM without touching business logic.
+### 💳 QuoteFlow
+**AI-Powered Quote-to-Payment SaaS**
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logoColor=white)
+A multi-tenant quotation management platform that streamlines the complete business quotation lifecycle.
+
+<sub><b>KEY FEATURES</b></sub>
+
+- AI-powered quotation workflows
+- Quotation and PDF generation
+- Quote-to-invoice conversion
+- Razorpay payment integration
+- Payment receipts and reporting
+- Multi-tenant architecture
+- Secure authentication
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+
+<a href="https://github.com/thorthethunder/QUOTEFLOW"><img src="https://img.shields.io/badge/View_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 [RAG → MCP](https://github.com/thorthethunder/rag-to-mcp)
-Tracing the path from **Retrieval-Augmented Generation** to the **Model Context Protocol**. Built during the Nasscom AI-Code Sarathi workshop.
+### 🏦 Enterprise AI Banking Assistant
+**AI-Powered Banking & Dispute Automation**
 
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-10B981?style=flat-square)
+An intelligent banking assistant designed to simplify customer banking operations and automate dispute-related workflows.
+
+<sub><b>KEY FEATURES</b></sub>
+
+- Banking customer and account information
+- Transaction retrieval
+- ATM and debit card disputes
+- ACH and Zelle dispute workflows
+- Fraud and complaint management
+- Multi-LLM integration
+- AI guardrails and backend-controlled decisions
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+
+<a href="https://github.com/thorthethunder/enterprise-ai-chatbot"><img src="https://img.shields.io/badge/View_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 PublishOS
+**AI Content Intelligence & Publishing Platform**
+
+An AI-powered content operating system focused on helping creators and businesses manage content intelligence and publishing workflows.
+
+<sub><b>KEY FEATURES</b></sub>
+
+- AI-assisted content intelligence
+- Brand and audience intelligence
+- Platform-specific content adaptation
+- OAuth-based account connections
+- Publishing and scheduling architecture
+- Provider-neutral connectors
+- Multi-tenant design
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AI_Integration-7C3AED?style=flat-square" alt="AI Integration" />
+
+<a href="https://github.com/thorthethunder/publishos"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 DocFlow
+**Document Intelligence & Processing Platform**
+
+A document-processing product focused on simplifying PDF and Word document workflows.
+
+<sub><b>PRODUCT SCOPE</b></sub>
+
+- PDF generation and processing
+- PDF-to-Word conversion
+- Document management
+- Digital signature workflows
+- AI-assisted document processing
+- Local-first architecture
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<img src="https://img.shields.io/badge/Status-In_development-475569?style=for-the-badge" alt="In development" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🧠 Current Engineering Initiative
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ⚡ Autonomous AI Software Engineering Platform
+**Designing a multi-agent engineering system to automate software development workflows.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>VISION</b></sub>
+
+- Specialized AI engineering agents
+- Requirements analysis and architecture
+- Automated coding and code reviews
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>&nbsp;</b></sub>
+
+- Test generation and execution
+- Controlled code merging
+- Deployment automation
+
+</td>
+</tr>
+</table>
+
+<sub><b>TECHNOLOGY DIRECTION</b></sub><br />
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/LLMs-10B981?style=flat-square" alt="LLMs" />
 
 </td>
 </tr>
