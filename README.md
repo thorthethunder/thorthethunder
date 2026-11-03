@@ -74,7 +74,6 @@ A multi-tenant quotation management platform that streamlines the complete busin
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
 
-<a href="https://github.com/thorthethunder/QUOTEFLOW"><img src="https://img.shields.io/badge/View_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +101,6 @@ An intelligent banking assistant designed to simplify customer banking operation
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 
-<a href="https://github.com/thorthethunder/enterprise-ai-chatbot"><img src="https://img.shields.io/badge/View_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a>
 
 </td>
 </tr>
@@ -131,7 +129,6 @@ An AI-powered content operating system focused on helping creators and businesse
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/AI_Integration-7C3AED?style=flat-square" alt="AI Integration" />
 
-<a href="https://github.com/thorthethunder/publishos"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
 
 </td>
 <td width="50%" valign="top">
