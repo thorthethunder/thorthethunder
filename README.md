@@ -19,16 +19,18 @@
 
 I'm a **Lead Software Engineer at Quinte Financial Technologies** with **7+ years** building enterprise software for **Banking & Financial Services**.
 
-These days I work where **FinTech meets GenAI**: I design multi-agent systems with **Spring AI**, run local LLMs with **Ollama** and **vLLM**, and ship them as full-stack products on **Java 21**, **Spring Boot 3**, **Angular** and **Oracle**.
+At work I build full-stack banking applications on **Java 21**, **Spring Boot 3**, **Angular** and **Oracle**.
+
+Outside work, my personal projects explore **GenAI**: multi-agent systems with **Spring AI**, local LLMs with **Ollama** and **vLLM**, and applying them to banking problems.
 
 </td>
 <td width="45%" valign="top">
 
 🏦 &nbsp;**Domain**: ACH · Payments · Disputes<br />
-🤖 &nbsp;**Focus**: Multi-agent AI, RAG, MCP<br />
-🧩 &nbsp;**Stack**: Java · Spring · Angular · Oracle<br />
+💼 &nbsp;**At work**: Java · Spring Boot · Angular · Oracle<br />
+🤖 &nbsp;**Side projects**: Multi-agent AI, RAG, MCP<br />
 🌱 &nbsp;**Exploring**: Local LLM serving at scale<br />
-💬 &nbsp;**Ask me about**: Spring AI in production
+💬 &nbsp;**Ask me about**: Spring Boot, Angular, Spring AI
 
 </td>
 </tr>
@@ -37,12 +39,12 @@ These days I work where **FinTech meets GenAI**: I design multi-agent systems wi
 <br />
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Java, Spring Boot, Hibernate, Struts, REST, Microservices, Angular, TypeScript, JavaScript, HTML5, CSS3, jQuery, Spring AI, Ollama, OpenAI, vLLM, RAG/MCP, Oracle" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Java, Spring Boot, Hibernate, Struts, REST, Microservices, Angular, TypeScript, JavaScript, HTML5, CSS3, jQuery, Oracle, Spring AI, Ollama, OpenAI, vLLM, RAG/MCP" />
 </p>
 
 <br />
 
-## 🚀 Featured work
+## 🚀 Personal projects
 
 <table>
 <tr>

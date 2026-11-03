@@ -49,13 +49,13 @@
   <text class="t" x="98" y="78" fill="#cbd5e1" font-size="13" font-weight="600" letter-spacing="1.2">LEAD SOFTWARE ENGINEER · FINTECH</text>
 </g>
 <text class="t fade d1" x="62" y="150" fill="url(#name)" font-size="58" font-weight="800" letter-spacing="-1.5">Balakrishnan Lingan</text>
-<text class="t fade d2" x="64" y="188" fill="#94a3b8" font-size="18">Java · Spring AI · Angular — building AI systems for banking</text>
+<text class="t fade d2" x="64" y="188" fill="#94a3b8" font-size="18">Java · Spring Boot · Angular — banking apps by day, AI by night</text>
 
 <g class="fade d3">
   <text class="m" x="64" y="246" fill="#7c3aed" font-size="18" font-weight="700">&gt;</text>
   <g class="m" font-size="18" fill="#e2e8f0">
-    <text class="line l1" x="86" y="246">Building AI-powered banking platforms</text>
-    <text class="line l2" x="86" y="246">Multi-agent systems with Spring AI</text>
+    <text class="line l1" x="86" y="246">Full-stack banking apps on Java &amp; Angular</text>
+    <text class="line l2" x="86" y="246">Side projects: multi-agent AI with Spring AI</text>
     <text class="line l3" x="86" y="246">Local LLMs with Ollama &amp; vLLM</text>
     <text class="line l4" x="86" y="246">7+ years shipping FinTech software</text>
   </g>
@@ -68,11 +68,11 @@
   <circle cx="814" cy="84" r="5" fill="#ef4444"/><circle cx="832" cy="84" r="5" fill="#f59e0b"/><circle cx="850" cy="84" r="5" fill="#22c55e"/>
   <text class="m" x="1120" y="88" fill="#475569" font-size="12" text-anchor="end">Thor.java</text>
   <g class="m" font-size="14" xml:space="preserve">
-    <text x="814" y="122"><tspan fill="#c084fc">@Agent</tspan></text>
+    <text x="814" y="122"><tspan fill="#c084fc">@Profile</tspan><tspan fill="#e2e8f0">(</tspan><tspan fill="#86efac">"thor"</tspan><tspan fill="#e2e8f0">)</tspan></text>
     <text x="814" y="146"><tspan fill="#c084fc">public class </tspan><tspan fill="#7dd3fc">Thor</tspan><tspan fill="#e2e8f0"> {</tspan></text>
-    <text x="834" y="170"><tspan fill="#fbbf24">stack</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"Spring AI"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="834" y="170"><tspan fill="#fbbf24">work</tspan><tspan fill="#e2e8f0">  = </tspan><tspan fill="#86efac">"Spring Boot"</tspan><tspan fill="#e2e8f0">;</tspan></text>
     <text x="834" y="194"><tspan fill="#fbbf24">domain</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"Banking"</tspan><tspan fill="#e2e8f0">;</tspan></text>
-    <text x="834" y="218"><tspan fill="#fbbf24">llm</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"Ollama"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="834" y="218"><tspan fill="#fbbf24">hobby</tspan><tspan fill="#e2e8f0">  = </tspan><tspan fill="#86efac">"Spring AI"</tspan><tspan fill="#e2e8f0">;</tspan></text>
     <text x="814" y="242" fill="#e2e8f0">}</text>
   </g>
 </g>
